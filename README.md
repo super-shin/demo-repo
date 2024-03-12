@@ -1,4 +1,3 @@
 #CODE
 
-This is a sample description.
-  
+This is another sample description.
